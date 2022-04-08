@@ -1,4 +1,3 @@
-import 'package:code_wars/code_wars.dart' as code_wars;
 
 void main() {
   final years = nbYear(1500, 5, 100, 5000);
